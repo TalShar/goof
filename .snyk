@@ -32,3 +32,6 @@ patch:
   'npm:tunnel-agent:20170305':
     - tap > codecov.io > request > tunnel-agent:
         patched: '2019-09-15T12:48:45.264Z'
+  SNYK-JS-LODASH-450202:
+    - tap > nyc > istanbul-reports > handlebars > async > lodash:
+        patched: '2019-09-16T09:40:03.367Z'
